@@ -1,0 +1,8 @@
+# file-c
+Questo è un progetto creato da Gabriele Sollecito.
+E' scritto su C++.
+
+Ha lo scopo di identificare la lunghezza della parola inserita dall'utente:
+corta= se è composta da 7 o meno caratteri;
+media= se è composta tra i 7 e i 15 caratteri;
+lunga= se è composta da 15 o più caratteri;
